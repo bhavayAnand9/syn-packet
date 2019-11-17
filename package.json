@@ -1,0 +1,15 @@
+{
+  "name": "syn-packet",
+  "version": "1.0.0",
+  "description": "syn packet over nodejs raw socket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["syn", "ack", "tcp", "3 way handshake", "packet", "segment", "socket"],
+  "author": "bhavay anand",
+  "license": "ISC",
+  "dependencies": {
+    "raw-socket": "^1.7.0"
+  }
+}
